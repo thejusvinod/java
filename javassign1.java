@@ -25,7 +25,7 @@ class student
             System.out.println("enter the phone no");
             c[i]=object.nextLong();
             System.out.println("enter the cgpa");
-            d[i]=object.nextInt();
+          
 
 
         }
